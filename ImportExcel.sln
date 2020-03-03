@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImportExcel", "ImportExcel.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImportExcel2", "..\ImportExcel2\ImportExcel2.csproj", "{C2A80828-4CF2-44B4-8C2F-B0382A56CD2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportExcel3_base", "..\ImportExcel3_base\ImportExcel3_base.csproj", "{A6120C9E-2867-46F1-AC04-47B1AC783988}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImportExcel3_base", "..\ImportExcel3_base\ImportExcel3_base.csproj", "{A6120C9E-2867-46F1-AC04-47B1AC783988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportExcel4_ForReturnBrochure", "..\ImportExcel4_ForReturnBrochure\ImportExcel4_ForReturnBrochure.csproj", "{B743FFBE-28A2-4FE1-BCD1-B6C582647C05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{A6120C9E-2867-46F1-AC04-47B1AC783988}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6120C9E-2867-46F1-AC04-47B1AC783988}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6120C9E-2867-46F1-AC04-47B1AC783988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B743FFBE-28A2-4FE1-BCD1-B6C582647C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B743FFBE-28A2-4FE1-BCD1-B6C582647C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B743FFBE-28A2-4FE1-BCD1-B6C582647C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B743FFBE-28A2-4FE1-BCD1-B6C582647C05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
